@@ -12,6 +12,7 @@
 	<artifactId>git_demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>git_demo</name>
+	<packaging>war</packaging>
 	<description>测试git的maven+springBoot项目</description>
 
 	<properties>
